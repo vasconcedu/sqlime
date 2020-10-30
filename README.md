@@ -1,7 +1,7 @@
 # sqlime [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 HTTP fuzzer (originally targeted at SQLi, but ended up with broader possibilities)
 
-![sqlime banner](https://github.com/vasconcedu/sqlime/banner.png)
+![sqlime banner](https://github.com/vasconcedu/sqlime/raw/main/banner.png)
 
 # Author
 Eduardo Vasconcelos (vasconcedu)
