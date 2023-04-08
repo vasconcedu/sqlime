@@ -2,7 +2,7 @@
 
 # Author:
 # Eduardo Vasconcelos (vasconcedu)
-# tereresecurity.wordpress.com 
+# https://vasconcedu.github.io/
 #
 # Description:
 # $sqlime$ is a fuzzer for HTTP mainly targeted at

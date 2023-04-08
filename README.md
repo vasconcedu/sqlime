@@ -6,7 +6,7 @@ HTTP fuzzer (originally targeted at SQLi, but ended up with broader possibilitie
 ## Author
 Eduardo Vasconcelos (vasconcedu)
 
-https://tereresecurity.wordpress.com/
+https://vasconcedu.github.io/
 
 ## License
 MIT License
